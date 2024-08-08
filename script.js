@@ -34,7 +34,7 @@ function _0x1315(_0x36b582, _0x17c6e2) {
     _0x1315(_0x36b582, _0x17c6e2)
   );
 }
-const $license_item = "toko-whatsapp-blogger-template";
+const $license_item = "script";
 license();
 function _0x517f() {
   var _0x563541 = [
