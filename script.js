@@ -34,7 +34,7 @@ function _0x1315(_0x36b582, _0x17c6e2) {
     _0x1315(_0x36b582, _0x17c6e2)
   );
 }
-const $license_item = "script";
+const $license_item = "toko-whatsapp-blogger-template";
 license();
 function _0x517f() {
   var _0x563541 = [
@@ -365,33 +365,39 @@ function license() {
       return (_0x5737d9 = _0x37d0dd(_0x5737d9)), _0x5737d9;
     } else return "";
   }
- function _0xfd2318(_0x8bc47e) {
-  var _0x2da2f6 = _0x1315,
-    _0x9d8ec4 =
-      _0x2da2f6(0x27b) +
-      _0x8bc47e +
-      "</p>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<hr\x20style=\x22border:0;border-top:1px\x20solid\x20#ddd;\x22>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20href=\x22https://lapak.kangrian.net/" +
-      $license_item +
-      _0x2da2f6(0x29f);
-  return (document[_0x2da2f6(0x1b7)][_0x2da2f6(0x286)] = _0x9d8ec4);
-}
-
-if (typeof $license_key === _0x5580b9(0x1f8)) _0xfd2318(_0x5580b9(0x221));
-else {
-  if (typeof $license_item === _0x5580b9(0x1f8)) _0xfd2318(_0x5580b9(0x1be));
-  else {
-    console[_0x5580b9(0x2a8)](_0x5580b9(0x1da));
-    var _0x3e1f6b = document[_0x5580b9(0x1f6)](_0x5580b9(0x1d5));
-    if (_0x3e1f6b === null) _0xfd2318(_0x5580b9(0x1af));
-    else {
-      var _0x279a14 = new Date()[_0x5580b9(0x246)]();
-      (_0x3e1f6b["innerHTML"] =
-        "&#0169;" +
-        _0x279a14 +
-        "\x20&#8212;\x20Made\x20with.\x20<a\x20href=\x22https://lapak.kangrian.net/" +
+  function _0xfd2318(_0x8bc47e) {
+    var _0x2da2f6 = _0x1315,
+      _0x9d8ec4 =
+        _0x2da2f6(0x27b) +
+        _0x8bc47e +
+        "</p>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<hr\x20style=\x22border:0;border-top:1px\x20solid\x20#ddd;\x22>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20href=\x22https://lapak.kangrian.net/" +
         $license_item +
-        _0x5580b9(0x228)),
-        _0x3e1f6b[_0x5580b9(0x262)](_0x5580b9(0x1a4), _0x5580b9(0x1fd));
+        _0x2da2f6(0x29f);
+    return (document[_0x2da2f6(0x1b7)][_0x2da2f6(0x286)] = _0x9d8ec4);
+  }
+  if (typeof $license_key === _0x5580b9(0x1f8)) _0xfd2318(_0x5580b9(0x221));
+  else {
+    if (typeof $license_item === _0x5580b9(0x1f8)) _0xfd2318(_0x5580b9(0x1be));
+    else {
+      if (
+        location[_0x5580b9(0x234)][_0x5580b9(0x1b5)](_0x5580b9(0x28f)) !=
+          -0x1 ||
+        location[_0x5580b9(0x234)][_0x5580b9(0x1b5)](_0x5580b9(0x241)) !=
+          -0x1 ||
+        location[_0x5580b9(0x234)]["indexOf"](_0x5580b9(0x1db)) != -0x1
+      ) {
+        console[_0x5580b9(0x2a8)](_0x5580b9(0x1da));
+        var _0x3e1f6b = document[_0x5580b9(0x1f6)](_0x5580b9(0x1d5));
+        if (_0x3e1f6b === null) _0xfd2318(_0x5580b9(0x1af));
+        else {
+          var _0x279a14 = new Date()[_0x5580b9(0x246)]();
+          (_0x3e1f6b["innerHTML"] =
+            "&#0169;" +
+            _0x279a14 +
+            "\x20&#8212;\x20Made\x20with.\x20<a\x20href=\x22https://lapak.kangrian.net/" +
+            $license_item +
+            _0x5580b9(0x228)),
+            _0x3e1f6b[_0x5580b9(0x262)](_0x5580b9(0x1a4), _0x5580b9(0x1fd));
         }
       } else {
         if ($license_key === "") _0xfd2318(_0x5580b9(0x225));
