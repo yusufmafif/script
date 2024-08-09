@@ -77,7 +77,7 @@ function _0x517f() {
     "<b>Kode\x20Lisensi</b>\x20dibutuhkan..<br><br><small>#ERR_LICENSE</small>",
     "delay",
     "setItem",
-    "\x22\x20target=\x22_blank\x22><b>Kr</b></a>",
+    "\x22\x20target=\x22_blank\x22><b></b></a>",
     ".poptamv-btn,\x20.tombol-wa",
     "Atas\x20Nama.%0A*",
     "\x20.alamat",
@@ -362,7 +362,7 @@ function license() {
         _0x3e1f6b["innerHTML"] =
           "&#0169;" +
           _0x279a14 +
-          "\x20&#8212;\x20\x20\x20<a\x20href=\x22" +
+          "\x20&#8212;\x20\x20\x20<a\x20href=\x22"+
           $license_item +
           _0x5580b9(0x228);
         _0x3e1f6b[_0x5580b9(0x262)](_0x5580b9(0x1a4), _0x5580b9(0x1fd));
