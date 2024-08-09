@@ -362,7 +362,7 @@ function license() {
         _0x3e1f6b["innerHTML"] =
           "&#0169;" +
           _0x279a14 +
-          "\x20&#8212;\x20Made\x20with.\x20<a\x20href=\x22https://lapak.kangrian.net/" +
+          "\x20&#8212;\x20\x20\x20<a\x20href=\x22" +
           $license_item +
           _0x5580b9(0x228);
         _0x3e1f6b[_0x5580b9(0x262)](_0x5580b9(0x1a4), _0x5580b9(0x1fd));
